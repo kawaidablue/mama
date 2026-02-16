@@ -601,6 +601,17 @@ body {
     font-size: 18px;
     white-space: nowrap;
   }
+  .contact-wrap__title h2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    font-size: 18px;
+    gap: 0;
+  }
+  .br-none {
+    display: none;
+  }
   .contact-wrap__body__right__txt {
     font-size: 16px;
   }
